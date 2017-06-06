@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>CSS-Animation</title>
+		<title>CSS动画</title>
 		
 	</head>
 	<body>

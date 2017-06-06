@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>setImgSpecifications</title>
+		<title>设置图片尺寸</title>
 	</head>
 	<body>
 		<p>设置图片规格</p>
